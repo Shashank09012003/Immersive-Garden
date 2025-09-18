@@ -38,7 +38,7 @@ An animated landing page (Immersive Garden) built with modern tooling and custom
 
 ## 🗂 Project structure
 
-
+```
 ├─ node_modules/
 ├─ public/
 ├─ src/
@@ -53,7 +53,7 @@ An animated landing page (Immersive Garden) built with modern tooling and custom
 ├─ index.html
 ├─ package.json
 └─ vite.config.js   
-
+```
 
 ---
 
